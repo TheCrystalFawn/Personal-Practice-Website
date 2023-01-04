@@ -10,10 +10,9 @@ hr {
     width: 50%;
 }
 
-h1 {
-    color: #463333;
-}
-
-h3 {
-    color: #835858;
-}
+h1      {color: #463333;}
+h3      {color: #463333;}
+thead   {color: #463333;}
+p       {color: #835858;}
+td      {color: #835858;}
+li      {color: #835858;}
